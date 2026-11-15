@@ -1,0 +1,68 @@
+===== temperature 0.2 (top-k 40, 500 characters) =====
+And the present of the best of the world of the world
+And the world of the prove of the world of the world.
+
+LEONTES:
+I would the sea thing of the world of the world.
+
+KING RICHARD III:
+What is the world the face of the world of the first.
+
+GLOUCESTER:
+A pray that words the world of the common of the country.
+
+KING RICHARD II:
+And the sea that man with the prince of the state,
+And the sea the death of the world of the seas
+That thou art the common of the state of the world.
+
+KING RICHARD III:
+Th
+
+===== temperature 0.8 (top-k 40, 500 characters) =====
+As I have seem a point.
+
+CORIOLANUS:
+But in the mean;
+And by what we have been to death.
+
+MENENIUS:
+This is the shanks of the torn; the was friar,
+If your servant thus nature that he dold and city
+Upon of thee! will with were perjoice.
+
+CLARENCE:
+I was your heaven.
+
+ISABELLA:
+O for my husband,
+He arms as like constant his life, boy;
+One is it long when you and so a paint,
+I shall tell me? prety to the country,
+So let end; let metrem me with his father's son.
+
+HENRY BOLINGBROKE:
+I have I am so li
+
+===== temperature 1.5 (top-k 40, 500 characters) =====
+Put you? heavy Clifiul! shut you caith.
+
+Nurging Man;
+Agarer'd Gruperting by foul derious greats. looking
+match sheaves content rany remed in a gail.
+
+GLOUCESTER:
+Nay, get! Stad umgries? was, citiflled, folld,
+Which wrought and less help mldninglows:
+Let praMe Calle, falseSe how our dear.
+Rercifford, and like can to be that fell.
+Bush.
+Witherm,misel?
+
+KING EDWARD IV:
+Not, I sly notes, sell
+Secest those paport: ho!--
+
+HERMISTAR; truzing Know:'s no eaglan;Comen great me.
+OR Tyrgly gentleIf, Prince
+
